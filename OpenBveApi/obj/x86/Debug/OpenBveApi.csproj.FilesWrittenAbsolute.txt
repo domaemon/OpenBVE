@@ -1,0 +1,4 @@
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBveApi/bin/Debug/OpenBveApi.dll.mdb
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBveApi/bin/Debug/OpenBveApi.dll
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBveApi/obj/x86/Debug/OpenBveApi.dll
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBveApi/obj/x86/Debug/OpenBveApi.dll.mdb

@@ -1,0 +1,4 @@
+/Users/msugano/src/xamarin_workspace/openBVE/Sound.Flac/bin/Debug/Sound.Flac.dll.mdb
+/Users/msugano/src/xamarin_workspace/openBVE/Sound.Flac/bin/Debug/Sound.Flac.dll
+/Users/msugano/src/xamarin_workspace/openBVE/Sound.Flac/obj/x86/Debug/Sound.Flac.dll
+/Users/msugano/src/xamarin_workspace/openBVE/Sound.Flac/obj/x86/Debug/Sound.Flac.dll.mdb

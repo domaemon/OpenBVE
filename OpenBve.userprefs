@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenBve/Graphics/Camera.cs">
+    <Files>
+      <File FileName="OpenBve/Audio/Sounds.cs" Line="7" Column="7" />
+      <File FileName="OpenBve/Graphics/Renderer.Loading.cs" Line="7" Column="7" />
+      <File FileName="OpenBve/Graphics/Screen.cs" Line="7" Column="7" />
+      <File FileName="Tao.OpenAl.dll.config" Line="1" Column="1" />
+      <File FileName="Tao.Sdl.dll.config" Line="1" Column="1" />
+      <File FileName="OpenBveApi/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="OpenBveApi/Hosts.cs" Line="1" Column="1" />
+      <File FileName="OpenBve/Graphics/Camera.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

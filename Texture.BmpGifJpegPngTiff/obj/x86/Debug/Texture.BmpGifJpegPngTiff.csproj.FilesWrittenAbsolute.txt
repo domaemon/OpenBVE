@@ -1,0 +1,4 @@
+/Users/msugano/src/xamarin_workspace/openBVE/Texture.BmpGifJpegPngTiff/bin/Debug/Texture.BmpGifJpegPngTiff.dll.mdb
+/Users/msugano/src/xamarin_workspace/openBVE/Texture.BmpGifJpegPngTiff/bin/Debug/Texture.BmpGifJpegPngTiff.dll
+/Users/msugano/src/xamarin_workspace/openBVE/Texture.BmpGifJpegPngTiff/obj/x86/Debug/Texture.BmpGifJpegPngTiff.dll
+/Users/msugano/src/xamarin_workspace/openBVE/Texture.BmpGifJpegPngTiff/obj/x86/Debug/Texture.BmpGifJpegPngTiff.dll.mdb

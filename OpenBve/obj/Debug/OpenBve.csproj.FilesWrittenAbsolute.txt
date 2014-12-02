@@ -1,0 +1,12 @@
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/obj/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/obj/Debug/OpenBve.formImage.resources
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/obj/Debug/OpenBve.formMain.resources
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/bin/Debug/OpenBve.exe.mdb
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/bin/Debug/OpenBve.exe
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/obj/Debug/OpenBve.exe
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/obj/Debug/OpenBve.exe.mdb
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/bin/Debug/Tao.OpenAl.dll
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/bin/Debug/Tao.OpenGl.dll
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/bin/Debug/Tao.Sdl.dll
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/bin/Debug/OpenBveApi.dll
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBve/bin/Debug/OpenBveApi.dll.mdb
