@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-for i in `find ../ -name \*.cs`; do
-  echo $i
-done
