@@ -31,6 +31,15 @@ replace_dict = {
     "Gl.glCallList": "GL.CallList",
     "Gl.glNewList": "GL.NewList",
 
+    "Gl.glColorMaterial\(Gl.GL_FRONT_AND_BACK\, Gl.GL_AMBIENT_AND_DIFFUSE\);": "GL.ColorMaterial(MaterialFace.FrontAndBack, ColorMaterialParameter.AmbientAndDiffuse);",
+
+    "Gl.glHint\(Gl.GL_FOG_HINT\, Gl.GL_FASTEST\);": "GL.Hint(HintTarget.FogHint, HintMode.Fastest);",
+    "Gl.glHint\(Gl.GL_LINE_SMOOTH_HINT\, Gl.GL_FASTEST\);": "GL.Hint(HintTarget.LineSmoothHint, HintMode.Fastest);",
+    "Gl.glHint\(Gl.GL_PERSPECTIVE_CORRECTION_HINT\, Gl.GL_FASTEST\);": "GL.Hint(HintTarget.PerspectiveCorrectionHint, HintMode.Fastest);",
+    "Gl.glHint\(Gl.GL_POINT_SMOOTH_HINT\, Gl.GL_FASTEST\);": "GL.Hint(HintTarget.PointSmoothHint, HintMode.Fastest);",
+    "Gl.glHint\(Gl.GL_POLYGON_SMOOTH_HINT\, Gl.GL_FASTEST\);": "GL.Hint(HintTarget.PolygonSmoothHint, HintMode.Fastest);",
+    "Gl.glHint\(Gl.GL_GENERATE_MIPMAP_HINT\, Gl.GL_NICEST\);": "GL.Hint(HintTarget.GenerateMipmapHint, HintMode.Nicest);",
+
     "Gl.glDepthMask\(Gl.GL_FALSE\);": "GL.DepthMask(false);",
     "Gl.glDepthMask\(Gl.GL_TRUE\);": "GL.DepthMask(true);",
 
