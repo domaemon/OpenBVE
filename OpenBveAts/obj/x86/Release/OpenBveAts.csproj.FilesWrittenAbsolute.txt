@@ -1,0 +1,4 @@
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBveAts/bin/Release/OpenBveAts.dll
+/Users/msugano/src/xamarin_workspace/openBVE/OpenBveAts/obj/x86/Release/OpenBveAts.dll
+/Users/msugano/xamarin_workspace/openBVE/OpenBveAts/bin/Release/OpenBveAts.dll
+/Users/msugano/xamarin_workspace/openBVE/OpenBveAts/obj/x86/Release/OpenBveAts.dll

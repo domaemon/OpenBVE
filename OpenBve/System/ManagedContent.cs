@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OpenBve {
 	internal static partial class ManagedContent {

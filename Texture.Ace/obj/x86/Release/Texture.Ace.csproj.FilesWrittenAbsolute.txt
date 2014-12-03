@@ -1,0 +1,4 @@
+/Users/msugano/src/xamarin_workspace/openBVE/Texture.Ace/bin/Release/Texture.Ace.dll
+/Users/msugano/src/xamarin_workspace/openBVE/Texture.Ace/obj/x86/Release/Texture.Ace.dll
+/Users/msugano/xamarin_workspace/openBVE/Texture.Ace/bin/Release/Texture.Ace.dll
+/Users/msugano/xamarin_workspace/openBVE/Texture.Ace/obj/x86/Release/Texture.Ace.dll

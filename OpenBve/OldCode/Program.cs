@@ -1,4 +1,4 @@
-﻿--- DO NOT COMPILE ---
+--- DO NOT COMPILE ---
 
 	using System;
 using System.Diagnostics;

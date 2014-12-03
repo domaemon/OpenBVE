@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OpenBveApi.Math {
 	/// <summary>Represents an orientation in three-dimensional space.</summary>

@@ -1,4 +1,4 @@
-﻿#define CHECKSUMS // whether to check for CRC-8, CRC-16 and MD5
+#define CHECKSUMS // whether to check for CRC-8, CRC-16 and MD5
 
 using System;
 using System.IO;

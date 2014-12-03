@@ -1,0 +1,4 @@
+/Users/msugano/src/xamarin_workspace/openBVE/Sound.RiffWave/bin/Release/Sound.RiffWave.dll
+/Users/msugano/src/xamarin_workspace/openBVE/Sound.RiffWave/obj/x86/Release/Sound.RiffWave.dll
+/Users/msugano/xamarin_workspace/openBVE/Sound.RiffWave/bin/Release/Sound.RiffWave.dll
+/Users/msugano/xamarin_workspace/openBVE/Sound.RiffWave/obj/x86/Release/Sound.RiffWave.dll

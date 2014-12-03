@@ -1,4 +1,4 @@
-﻿
+
 namespace OpenBve.OldCode
 {
 	partial class formPackage

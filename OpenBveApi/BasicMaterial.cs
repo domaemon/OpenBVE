@@ -1,4 +1,4 @@
-﻿using OpenBveApi.Colors;
+using OpenBveApi.Colors;
 using OpenBveApi.Textures;
 
 namespace OpenBveApi.Objects {

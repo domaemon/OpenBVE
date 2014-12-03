@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using OpenBveApi.Objects;
 using OpenBveApi.Sounds;
 using OpenBveApi.Textures;

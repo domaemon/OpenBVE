@@ -1,4 +1,4 @@
-﻿namespace OpenBve {
+namespace OpenBve {
     partial class formImage {
         /// <summary>
         /// Required designer variable.

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 using OpenBveApi.Colors;
 using Tao.Sdl;

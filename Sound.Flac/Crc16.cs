@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Flac {
 	internal static class Crc16 {

@@ -1,1 +1,1 @@
-﻿namespace OpenBveApi.Geometry { }
+namespace OpenBveApi.Geometry { }

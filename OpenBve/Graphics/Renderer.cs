@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OpenBve {
 	/// <summary>Represents the renderer.</summary>

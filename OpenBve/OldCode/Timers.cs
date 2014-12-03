@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Tao.Sdl;
 
 namespace OpenBve {

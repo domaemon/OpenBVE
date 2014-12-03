@@ -2,4 +2,8 @@ The original code was retrieved from:
 
 http://odakyufan.zxq.net/openbve/
 
-The initial commit includes Tao libraries and configuration update to support build on Xamarin.
+The initial commit includes Tao libraries and configuration update to support the build on Xamarin.
+
+How to build:
+
+Open the OpenBVE.sln file from the Xamarin environment and build. Tested on Mac OSX.

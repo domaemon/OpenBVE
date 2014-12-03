@@ -1,4 +1,4 @@
-﻿#pragma warning disable 0659, 0661
+#pragma warning disable 0659, 0661
 
 using System;
 using System.Drawing;

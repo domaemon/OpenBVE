@@ -1,4 +1,4 @@
-﻿// === NOT COMPILED ===
+// === NOT COMPILED ===
 
 using System;
 using Tao.OpenAl;
